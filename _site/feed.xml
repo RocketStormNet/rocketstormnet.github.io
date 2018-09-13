@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Personal Awesome List</title>
+        <description>&lt;h2 id=&quot;c&quot;&gt;C#&lt;/h2&gt;
+
+&lt;p&gt;Lorem markdownum; et duobus variarum pecudis tenus cerno nos. Et nec, se cortex
+crines, praebet abstulit in nervis hauriret lacessas nisi gerens ferioque in
+quaque haesissem, subit. &lt;a href=&quot;http://et-autem.net/stirpeille&quot;&gt;Dolore&lt;/a&gt; sic auctor
+nocte percussit non; taurus fessa ardent di &lt;strong&gt;praemia maternae Iove&lt;/strong&gt; Osiris,
+si. Sanguine est restabat, Hyaleque caerula teque, ictu et finis merui aquarum
+conciderant fruges miserrimus insonet rerum, ullus. Notavit rege, litoreo; ipse
+teque!&lt;/p&gt;
+
+&lt;h2 id=&quot;javascript&quot;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;Casus interrita, laborum, coniuge amor totiens, margine orbus, in quo devolvunt
+moenia. Notus et Neleius calamos ademptam sitim ortus. &lt;a href=&quot;http://vocoin.com/nos&quot;&gt;Quidem
+praeceps&lt;/a&gt;, cum censuque tanta fidissime, quae post secum,
+ad nostri. Quadripedes flava tellure parvumque praestant &lt;strong&gt;animo natisque
+Dianae&lt;/strong&gt; expendite luna, aut in carerent hostibus sororis potentior longa puro
+tela. Inferius flumina tulerant taurus scelus silva: pigeat praeterit perfudit
+Iunone, congestaque.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 00:00:00 +0500</pubDate>
+        <link>http://localhost:4000/2018/second/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/second/</guid>
+      </item>
+    
+      <item>
+        <title>Wat?! Ruby/JS</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/w0VnviRlEHY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0500</pubDate>
+        <link>http://localhost:4000/2017/first/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/first/</guid>
+      </item>
+    
+  </channel>
+</rss>
