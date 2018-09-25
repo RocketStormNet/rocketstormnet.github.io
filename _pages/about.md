@@ -73,7 +73,7 @@ i { font-size: 45pt; }
 - **PHP Development Track** (Treehouse - PHP)
 - **Bitrix Framework Developer** (PHP, 1C-Bitrix)
 - **Learn Ruby Track** (Treehouse - Ruby)
-- **Rails development Track** (Treehouse - Ruby, Ruby on Rails)
+- **Rails Development Track** (Treehouse - Ruby, Ruby on Rails)
 - **Ruby Beyond the Basics** (Pluralsight - Ruby)
 - **The Complete React Native and Redux Course** (Udemy - React Native, Redux)
 
