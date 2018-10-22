@@ -65,16 +65,14 @@ i { font-size: 45pt; }
 /*.colored { color: #4072AF !important; }*/
 </style>
 
-<i class="devicon-php-plain colored"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-react-original-wordmark colored"></i> <i class="devicon-bootstrap-plain-wordmark colored"></i> <i class="devicon-ruby-plain-wordmark colored"></i> <i class="devicon-rails-plain-wordmark colored"></i>
+<i class="devicon-php-plain colored"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-react-original-wordmark colored"></i> <i class="devicon-bootstrap-plain-wordmark colored"></i> <i class="devicon-csharp-plain colored"></i> <i class="devicon-swift-plain colored"></i>
 
 ## Courses
 
 - **LFCS: Linux Service Management** (Pluralsight - CentOS, RHEL)
-- **PHP Development Track** (Treehouse - PHP)
+- **PHP Development** (Treehouse - PHP)
 - **Bitrix Framework Developer** (PHP, 1C-Bitrix)
-- **Learn Ruby Track** (Treehouse - Ruby)
-- **Rails Development Track** (Treehouse - Ruby, Ruby on Rails)
-- **Ruby Beyond the Basics** (Pluralsight - Ruby)
+- **Beginning iOS** (Treehouse - Swift, iOS)
 - **The Complete React Native and Redux Course** (Udemy - React Native, Redux)
 
 ---
