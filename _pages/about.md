@@ -19,7 +19,7 @@ permalink: /about/
 </figure>
 {:/}
 
-- 26 Years old, 10 June 1992
+- 27 Years old, 10 June 1992
 - Russia, Republic of Bashkortostan, Ufa
 - [Personal website](http://rocketstorm.me)
 - [LinkedIn Profile](http://linkedin.com/in/rocketstorm)
