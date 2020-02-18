@@ -7,5 +7,3 @@ layout: default
 
   Here you can find some of my [works](work/) and my personal [projects](projects/). Also you can find some [articles](articles/) that I write about different stuff.
 </div>
-
-<img src="http://ghchart.rshah.org/2f5380/RocketStormNet" alt="RocketStorm's Github Chart" />
