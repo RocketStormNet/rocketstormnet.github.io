@@ -21,10 +21,10 @@ permalink: /about/
 
 - 27 Years old, 10 June 1992
 - Russia, Republic of Bashkortostan, Ufa
-- [Personal website](http://rocketstorm.me)
+- [Personal website](http://rocketstorm.space)
 - [LinkedIn Profile](http://linkedin.com/in/rocketstorm)
 - [Skype](skype:rocketstormweb)
-- [Telegram](https://telegram.me/neocrey)
+- [Telegram](https://telegram.me/roketpik)
 
 ---
 
