@@ -65,7 +65,7 @@ i { font-size: 45pt; }
 /*.colored { color: #4072AF !important; }*/
 </style>
 
-<i class="devicon-php-plain colored"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-react-original-wordmark colored"></i> <i class="devicon-bootstrap-plain-wordmark colored"></i> <i class="devicon-ruby-plain-wordmark colored"></i> <i class="devicon-rails-plain-wordmark colored"></i> <i class="devicon-swift-plain colored"></i> <i class="devicon-postgresql-plain-wordmark colored"></i>
+<i class="devicon-php-plain colored"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-bootstrap-plain-wordmark colored"></i> <i class="devicon-csharp-plain-wordmark colored"></i> <i class="devicon-ruby-plain-wordmark colored"></i> <i class="devicon-rails-plain-wordmark colored"></i> <i class="devicon-android-plain-wordmark colored"></i> <i class="devicon-apple-original colored"></i>
 
 ## Courses
 
